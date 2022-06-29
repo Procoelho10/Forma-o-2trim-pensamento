@@ -1,1 +1,1 @@
-# Forma-o-2trim-pensamento
+# Formação 2º Trimestre - Pensamento Computacional
